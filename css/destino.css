@@ -1043,8 +1043,8 @@ footer {
       margin-top: 20px;
       font-size: large;
       color: grey; }
-      .sobre-mi p h2 {
-        font-size: 35px; }
+  .sobre-mi h2 {
+    font-size: 35px; }
   .sobre-mi img {
     width: 350px;
     height: 350px;
